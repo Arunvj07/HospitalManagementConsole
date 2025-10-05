@@ -1,4 +1,4 @@
-Hospital Management System (HMS) Using JDBC
+#Hospital Management System (HMS) Using JDBC
 A simple console-based Hospital Management System built in Java using JDBC and MySQL.
 The system allows you to manage patients, doctors, and appointments with full CRUD operations (Create, Read, Update, Delete).
 
